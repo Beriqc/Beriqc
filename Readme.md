@@ -22,7 +22,7 @@ Aspiro en convertirme en alguin que decida y no se quede en un mismo lugar y com
 
 Actualmente empiezo a vivir una vida normal mientras experimento y aprendo de mis errores
 
-Gracias por tu apoyo： 
+---
 <a href="[https://xhslink.com/m/2KRdOuiDQKS](https://www.twitch.tv/ainzthus)" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 <a href="https://x.com/Ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
