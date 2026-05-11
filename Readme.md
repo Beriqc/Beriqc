@@ -1,31 +1,25 @@
-## 👋 Hi! I'm 666xTz
+## 👋 Hi! I'm !BRQC
 
-<p align="left"> 
+Daniel Beriqc es un emprendedor, inversionista y estratega de negocios comprometido con el aprendizaje continuo y el desarrollo personal y financiero de personas y empresas.
 
-<img src="https://img.shields.io/badge/Streamer-C74B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
+Apasionado por la tecnología, el minimalismo y la innovación, Beriqc cree firmemente en la simplicidad como herramienta para construir una vida con mayor enfoque, estabilidad y propósito. También promueve el apoyo comunitario como base para generar un impacto positivo en la sociedad, comenzando en México y expandiendo esta visión hacia más personas con una mentalidad similar.
 
-<img src="https://img.shields.io/badge/Good player-C2462B?style=for-the-badge&logo=none&logoColor=white"/>
+Actualmente se desempeña como trabajador de tiempo completo, creador de contenido y estudiante autodidacta. A través de la autocrítica, conferencias y contenido en redes sociales, comparte ideas, conocimientos y reflexiones sobre finanzas personales, inversiones, economía y desarrollo personal, con el objetivo de construir un espacio que inspire crecimiento, disciplina y progreso colectivo.
 
-<img src="https://img.shields.io/badge/Photoshop-5A2B93?style=for-the-badge&logo=photoshop&logoColor=white"/>
+-
 
-<img src="https://img.shields.io/badge/Adobe Premiere-3A77D4?style=for-the-badge&logo=none&logoColor=white"/>
+📌 Contacto: **Proximamente**
 
-<img src="https://img.shields.io/badge/FL Studio-D96500?style=for-the-badge&logo=studio&logoColor=white"/>
+📕 Mas informacion: **Proximamente**
 
-</p>
-
-Soy curioso de naturaleza, me gusta explorar diferentes metodos hasta encontrar la manera mas efectiva y comoda posible, me gusta la filosofia, tecnologias, nuevas la explotacion laboral, 
-el piano, los videojuegos, y disfruto mucho la sencillez de la vida, se sobre la edicion de video y imagen de manera simple las redes sociales un poco de psicologia reflexion motivacion o formas de buscar el problema se mental o fisico,
-organizar estructura complejas, aprender nuevas habilidades a prueba error y mantengo bien el control ante las dificultades, y disfruto mucho la sencillez. :)
-
-Aspiro en convertirme en alguien grande de la forma mas sencilla posible, y no qudarme pegado a un solo lugar explorar nuevos metodos o formas compartiendolo con los que me agradan.
-
-Actualmente: trabajo, y voy mejorando mi comunicacion y tareas del dia a dia cuando tengo tiempo libre estudio lo mejor que tenga a mano, o simplemente juego un rato.
+🏄 Sigueme en mis redes: **@Beriqc**
 
 ---
 
-<a href="https://www.twitch.tv/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-<a href="https://x.com/Ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/Beriqc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Beriqc" target="_blank"><img src="https://img.shields.io/badge/Youtube-E4406f?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://www.twitch.tv/Beriqc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://x.com/Beriqc" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-<img src="https://i.pinimg.com/1200x/ab/4e/ea/ab4eea676a02ef64ea514b90a26039ff.jpg" alt="Banner GIF" width="99%" />
+
+<img src="https://i.imgur.com/lS0qPgL.jpeg" alt="Banner GIF" width="99%" />
